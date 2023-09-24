@@ -1,7 +1,6 @@
 ## Blockchain based certification verification system
 
 Blockchain is the ultimate solution to counter the problem of fake certificates and forgery.
-Here:
 
 - Struct certificate stores the hash of the certificate along with students registration number.
 - Struct Registrar stores the address of registrar and name of the university he is working.
